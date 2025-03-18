@@ -1,0 +1,98 @@
+commit 574449b5938aa2aa85e875427264cccd0ee980aa
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 21:08:41 2025 -0600
+
+    Agregando dos parrafos
+
+commit cfb944d6290ba01d7676bfd2a0768d6b8a4f7a96
+Merge: 86074cd 157633e
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 21:06:04 2025 -0600
+
+    Resolviendo conflicto en estaciones del año y  fechas  de inicio
+
+commit 86074cd9ba5eec91a011bbc2c23fd0971c0c8f4e
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 20:46:00 2025 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 157633e0f60c8089c5811a7f80600e51b6f73243
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 20:46:00 2025 -0600
+
+    Agregando estaciones del año
+
+commit 9aead465b9044f4533a8cbde4bcdc6b743a68a7a
+Merge: 21779b3 dd37335
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 20:41:05 2025 -0600
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit dd3733547c6a8ba4d53db6dd0ebf8bd53f87d194
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 20:32:39 2025 -0600
+
+    Agregando index.js al index.html
+
+commit 21779b39e6193df20f1894974f0633b0e5c44fc2
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 14:35:44 2025 -0600
+
+    Agregando style.css al index.html
+
+commit d6c36d714bca4f8fd05283f0a347aa96d131a8b4
+Merge: 1a23f8c b56e582
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 14:24:23 2025 -0600
+
+    Merge branch 'js'
+
+commit b56e582b17d1845fb2d3f932c761e2227ce544fb
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 14:18:02 2025 -0600
+
+    Creando index.js
+
+commit 1a23f8ca3278eff74b3ab5103b9135d312479156
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 14:12:08 2025 -0600
+
+    Creando style.css
+
+commit c9b189b991d76dcf9bfd8bcc11f8f756d4607065
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 14:06:25 2025 -0600
+
+    Creando index.html
+
+commit f9766d2beb64152d04f5dda14f351aae9105fc22
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 11:51:25 2025 -0600
+
+    Agregando cambios en el archivo gitignore
+
+commit 711504fc02ca1b1fe61f1f0c0b9103c85194b14f
+Author: Erika Portillo <130944025+erikamp20@users.noreply.github.com>
+Date:   Tue Mar 11 11:03:03 2025 -0600
+
+    Creando licencia del repositorio
+
+commit d0ed2f2188910d43b2a7caa3796cee8ec02a0d72
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 10:56:22 2025 -0600
+
+    Agregando más contenido al README
+
+commit 48130b65101c9128add2c9d0961c0816b6e9afdc
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 10:43:40 2025 -0600
+
+    Agregando contenido inicial al README
+
+commit 51267d71d1d55f44dfb5d03e3d661754a7b2c69d
+Author: erika <erikaregui@gmail.com>
+Date:   Tue Mar 11 09:50:11 2025 -0600
+
+    Primer commit
